@@ -31,9 +31,9 @@ Encoding categorical data
 Normalizing the data
 Splitting the data into test and train
 
-##PROGRAM:
-### Name: P.Siva Naga Nithin
-### Reg.No:212221240037
+## PROGRAM:
+## Name: P.Siva Naga Nithin
+## Reg.No:212221240037
 ~~~
 import pandas as pd
 df=pd.read_csv("Churn_Modelling.csv")
@@ -62,7 +62,8 @@ print(df1)
 ~~~
 
 
-##OUTPUT:
+## OUTPUT:
+
 ![nn1](https://user-images.githubusercontent.com/94154780/190556196-56f7aaa2-b158-444e-b7de-344d30a44181.png)
 
 ![nn2](https://user-images.githubusercontent.com/94154780/190556221-ab61145f-8fd9-45a5-a94e-12b7d2b19ee2.png)
@@ -74,5 +75,5 @@ print(df1)
 
 
 
-##RESULT
+## RESULT
 Thus the above program for standardizing the given data was implemented successfully
