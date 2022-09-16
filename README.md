@@ -32,7 +32,8 @@ Normalizing the data
 Splitting the data into test and train
 
 ##PROGRAM:
-/Write your code here/
+### Name: P.Siva Naga Nithin
+### Reg.No:212221240037
 ~~~
 import pandas as pd
 df=pd.read_csv("Churn_Modelling.csv")
@@ -63,12 +64,15 @@ print(df1)
 
 ##OUTPUT:
 ![nn1](https://user-images.githubusercontent.com/94154780/190556196-56f7aaa2-b158-444e-b7de-344d30a44181.png)
+
 ![nn2](https://user-images.githubusercontent.com/94154780/190556221-ab61145f-8fd9-45a5-a94e-12b7d2b19ee2.png)
+
 ![nn3](https://user-images.githubusercontent.com/94154780/190556227-ac51af3f-961c-4342-82de-04a5e656a85d.png)
+
 ![nn4](https://user-images.githubusercontent.com/94154780/190556240-6c8ae383-b7c8-4edb-a2f0-7637577dec41.png)
 
 
 
 
 ##RESULT
-/Type your result here/
+Thus the above program for standardizing the given data was implemented successfully
